@@ -14,7 +14,7 @@
 - ⚙️ **Mechanical Engineer** (Honours in Electric Vehicles), CGPA 8.58/10
 - 📦 **2 years** of full-time supply chain and operations experience
 - 💡 Focus: **innovation management, digital tools and generative AI workflows**
-- 🌍 Based in Aachen, Germany · **willing to relocate** · English C2 · German B2 (working towards C1)
+- 🌍 Based in Aachen, Germany · **willing to relocate** · English C2 · German C1
 
 ### Impact in numbers
 | 20% | 75% | ~80 | 24 |
