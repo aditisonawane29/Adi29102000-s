@@ -24,6 +24,7 @@
 ### Selected projects
 | Project | What I did | Result |
 |---|---|---|
+| **Supplier Delay Early-Warning** ([live demo](https://adi29102000-s.github.io/supplier-delay-early-warning/))<br><sub>Personal innovation prototype, built with GitHub Copilot</sub> | Turned a manual supplier analysis from my logistics job into a web tool that flags high-risk suppliers from delivery data | Live prototype |
 | **AI predictive-maintenance app & trend radar**<br><sub>RWTH × Poppe + Potthoff Maschinenbau</sub> | Co-developed an AI-supported app that detects machine failures and routes technicians; built a trend radar for a new after-sales service business | Presented to the CEO |
 | **Hermes: digital ecosystem for last-mile delivery**<br><sub>Building Digital Ecosystems, RWTH</sub> | Weighted decision matrix, technology S-curve, staged pilot with go/no-go gates | Staged rollout plan |
 | **How students adopt and trust AI tools**<br><sub>Qualitative Research Methods, RWTH</sub> | Research design, concept map, semi-structured interview guide | Grade 1.3 |
@@ -38,6 +39,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
