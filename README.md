@@ -2,7 +2,7 @@
 <h3 align="center">I turn new technology into working processes.</h3>
 
 <p align="center">
-  <a href="https://adi29102000-s.github.io"><img src="https://img.shields.io/badge/Interactive_Portfolio-Visit-d9480f?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://aditisonawane29.github.io"><img src="https://img.shields.io/badge/Interactive_Portfolio-Visit-d9480f?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/aditisonawane29"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sonawaneaditi.0529@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1f6f78?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -24,7 +24,7 @@
 ### Selected projects
 | Project | What I did | Result |
 |---|---|---|
-| **Supplier Delay Early-Warning** ([live demo](https://adi29102000-s.github.io/supplier-delay-early-warning/))<br><sub>Personal innovation prototype, built with GitHub Copilot</sub> | Turned a manual supplier analysis from my logistics job into a web tool that flags high-risk suppliers from delivery data | Live prototype |
+| **Supplier Delay Early-Warning** ([live demo](https://aditisonawane29.github.io/supplier-delay-early-warning/))<br><sub>Personal innovation prototype, built with GitHub Copilot</sub> | Turned a manual supplier analysis from my logistics job into a web tool that flags high-risk suppliers from delivery data | Live prototype |
 | **AI predictive-maintenance app & trend radar**<br><sub>RWTH × Poppe + Potthoff Maschinenbau</sub> | Co-developed an AI-supported app that detects machine failures and routes technicians; built a trend radar for a new after-sales service business | Presented to the CEO |
 | **Hermes: digital ecosystem for last-mile delivery**<br><sub>Building Digital Ecosystems, RWTH</sub> | Weighted decision matrix, technology S-curve, staged pilot with go/no-go gates | Staged rollout plan |
 | **How students adopt and trust AI tools**<br><sub>Qualitative Research Methods, RWTH</sub> | Research design, concept map, semi-structured interview guide | Grade 1.3 |
@@ -46,4 +46,4 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
-<p align="center"><b>👉 <a href="https://adi29102000-s.github.io">See the full interactive portfolio</a></b></p>
+<p align="center"><b>👉 <a href="https://aditisonawane29.github.io">See the full interactive portfolio</a></b></p>
